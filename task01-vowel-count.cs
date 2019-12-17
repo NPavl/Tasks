@@ -36,6 +36,8 @@ namespace Tasks
             //finally { }
         }
 
+            // ----- ЗАПРЕЩЕНО ИЗМЕНЯТЬ КОД МЕТОДОВ, КОТОРЫЕ НАХОДЯТСЯ НИЖЕ -----
+        
         public static void Main()
         {
             Console.WriteLine("Task is done when all test cases are correct:");
